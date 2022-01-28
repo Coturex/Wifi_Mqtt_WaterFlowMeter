@@ -1,0 +1,13 @@
+
+https://www.openhacks.com/uploadsproductos/g1__water_flow_sensor_-_wiki.pdf
+
+Fil Jaune - signal - Pull up 5v + 10kohms
+
+https://www.seeedstudio.com/Water-Flow-Sensor-YF-B1-p-2878.html
+
+operating temp : <= 80°C
+
+YF-B1 : 1/2 " M-M
+YF-B10 : 1 " M-M
+YF-B5 : 3/4 " M-M
+
