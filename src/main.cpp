@@ -21,7 +21,10 @@
 // D2 : I2C data  - OLED
 
 // waterFlow Sensor : YF-B10
-// Q = ?
+// F = 5 x Q  (L/min)
+// 1L = 300Hz
+// Q / 60 = L
+
 
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
