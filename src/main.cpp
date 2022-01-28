@@ -22,6 +22,7 @@
 
 // waterFlow Sensor : YF-B10
 // F = 5 x Q  (L/min)
+// (6 x Q-8) Q = L/Min
 // 1L = 300Hz
 // Q / 60 = L
 
