@@ -334,7 +334,8 @@ void setup() {
     // WaterFlow Sensor 
     pinMode(D5, INPUT) ;  // Connect D5 as Input to waterFlow sensor
     attachInterrupt (0,pulseSensor,RISING) ;
-
+    sei() ; // enable interrupt
+    
     // OLED Shield 
     display.begin(SSD1306_SWITCHCAPVCC, 0x3C);  // initialize with the I2C addr 0x3C (for the 64x48)
     display.display();
